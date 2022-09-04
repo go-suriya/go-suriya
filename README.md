@@ -55,7 +55,7 @@
 ![ Code Not My Father's
 ](https://github-readme-stats.vercel.app/api?username=go-onesixeight&show_icons=true&theme=dark&count_private=true)
 
-<img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=go-onesixeight" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=go-onesixeight&layout=compact)
 
 **Github Theme Credit**
 [ anuraghazra's Github ](https://github.com/anuraghazra/github-readme-stats)
