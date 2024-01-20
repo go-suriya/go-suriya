@@ -86,13 +86,13 @@ Others:
 
 <br />
 
-![ Code Not My Father's
-](https://github-readme-stats.vercel.app/api?username=go-onesixeight&show_icons=true&theme=dark&count_private=true)
+## My Github Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=go-onesixeight&layout=compact)
+[![All Stats](https://github-readme-stats.vercel.app/api?username=go-onesixeight&show_icons=true&theme=algolia)](https://github.com/marttp)
 
-**Github Theme Credit**
-[ anuraghazra's Github ](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=go-onesixeight&layout=compact&theme=algolia)](https://github.com/marttp)
+
+<br />
 
 <p align="left">
     <a href="https://twitter.com/sendmetobaal" target="blank"><img align="center"
