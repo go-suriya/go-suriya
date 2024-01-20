@@ -6,7 +6,7 @@
 - 📫 My Contact **mcast31mcast31@gmail.com**
 
 <h3 align="center">My coding skill I'm not a professional 😄</h3>
-<h3 align="center">👩‍💻 Tech Stack</h3>
+<h3 align="center">👩‍💻 Familiar with</h3>
 
 ## Languages and Tools
 
