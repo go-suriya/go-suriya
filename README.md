@@ -1,5 +1,4 @@
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=go-onesixeight&label=Views&color=blue&style=plastic&style=for-the-badge"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=go-onesixeight&label=Views&color=blue&style=plastic&style=for-the-badge"
         alt="go-onesixeight" /> </p>
 
 # 💫 About Me :
@@ -40,8 +39,8 @@ Backend:
 
 Frontend:
 
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" /></code> -->
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/></code>
+<code><img height="25" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" /></code>
 <!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></code> -->
 <!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/></code> -->
 <!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></code> -->
