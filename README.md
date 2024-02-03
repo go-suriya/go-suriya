@@ -90,9 +90,9 @@ Others:
 
 ## My Github Stats
 
-[![All Stats](https://github-readme-stats.vercel.app/api?username=go-onesixeight&show_icons=true&theme=algolia)](https://github.com/marttp)
+[![All Stats](https://github-readme-stats.vercel.app/api?username=go-onesixeight&show_icons=true&theme=algolia)](https://github.com/go-onesixeight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=go-onesixeight&layout=compact&theme=algolia)](https://github.com/marttp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=go-onesixeight&layout=compact&theme=algolia)](https://github.com/go-onesixeight)
 
 <br />
 
