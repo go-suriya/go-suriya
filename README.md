@@ -50,11 +50,11 @@ Frontend:
 
 Database:
 
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code> 
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></code> 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></code> -->
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></code>
+<code><img height="25" src="https://pocketbase.io/images/logo.svg"/></code>
 
 
 Real-World Software Engineering Tools:
