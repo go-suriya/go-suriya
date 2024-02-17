@@ -18,9 +18,9 @@ Language:
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/></code>
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code> -->
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/></code> -->
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg"/></code> -->
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/></code>
+<code><img height="25" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo.png"/></code>
 <!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code> -->
 <!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/></code> -->
 <!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/></code> -->
@@ -32,7 +32,7 @@ Backend:
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
 <code><img height="25" src="https://docs.nestjs.com/assets/logo-small.svg" /></code>
 <code><img height="25" src="https://docs.gofiber.io/img/logo.svg" /></code>
-<!-- <code><img height="25" src="https://springboottutorials.files.wordpress.com/2018/03/cropped-springboot.png?w=128"></code> -->
+<code><img height="25" src="https://springboottutorials.files.wordpress.com/2018/03/cropped-springboot.png?w=128"></code>
 <!-- <code><img height="25" src="https://www.ivankrizsan.se/wp-content/uploads/2019/12/spring_webflux_logo.png"></code> -->
 <!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></code> -->
 <!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></code> -->
